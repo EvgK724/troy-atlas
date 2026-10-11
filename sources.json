@@ -1,0 +1,176 @@
+{
+  "unesco": {
+    "title": "UNESCO — Archaeological Site of Troy",
+    "url": "https://whc.unesco.org/en/list/849/",
+    "type": "Официальный реестр",
+    "supports": "Гиссарлык; положение у Дарданелл; культурные связи; цитадель и нижний город; греческий и римский Илион; включение в 1998 году."
+  },
+  "bmTroy": {
+    "title": "British Museum — The search for the lost city of Troy",
+    "url": "https://www.britishmuseum.org/blog/search-lost-city-troy",
+    "type": "Музейный обзор",
+    "supports": "Троя II около 2550–2300 до н. э.; VI/VIIa около 1750–1180; Калверт и Шлиман; ошибочная привязка клада к Приаму."
+  },
+  "bmGuide": {
+    "title": "British Museum — Troy: myth and reality, large-print guide",
+    "url": "https://www.britishmuseum.org/sites/default/files/2019-12/Large%20print%20guide_Troy.pdf",
+    "type": "Каталог экспозиции",
+    "supports": "Около 3000 до н. э.; девять крупных поселений I–IX; VI/VIIa около 1750–1180; около 1300 — землетрясение и восстановление; импорт и местное подражание микенской керамике."
+  },
+  "ucExcavations": {
+    "title": "University of Cincinnati — History of Archaeology, Troy (1932–38)",
+    "url": "https://classics.uc.edu/?id=9&view=category",
+    "type": "Университет раскопочной экспедиции",
+    "supports": "Блеген, Роусон, Каски; 46 различимых стратиграфических подразделений в девяти крупных слоях; уточнение связи с эгейской хронологией."
+  },
+  "tuebingenHistory": {
+    "title": "D. Thumm-Doğrayan — Die Ausgrabungen in Troia unter Wilhelm Dörpfeld und Carl W. Blegen",
+    "url": "https://doi.org/10.15496/publikation-14871",
+    "type": "Исследовательский обзор Тюбингенского университета",
+    "supports": "Дёрпфельд в 1893–1894 годах пересмотрел привязку Трои II к Гомеру; Блеген — VI как землетрясение, VIIa как возможный военный фон.",
+    "note": "Постоянный DOI. Во время проверки репозиторий временно отвечал с ошибкой; попробуйте открыть позднее."
+  },
+  "korfmann2004": {
+    "title": "Manfred Korfmann — Was There a Trojan War? (2004)",
+    "url": "https://archive.archaeology.org/0405/etc/troy.html",
+    "type": "Руководитель раскопок, Archaeological Institute of America",
+    "supports": "Пожар, скелеты, пращные снаряды VIIa/VIi около 1180 до н. э.; вероятный конфликт; сам автор отличает конфликт от доказательства именно эпической войны; нижний город."
+  },
+  "dartmouthVI": {
+    "title": "Dartmouth — Aegean Prehistoric Archaeology, Lesson 23",
+    "url": "https://sites.dartmouth.edu/aegean-prehistory/lessons/lesson-23-narrative/",
+    "type": "Университетский археологический курс",
+    "supports": "Монументальная архитектура VI; обрушенная кладка как основание гипотезы землетрясения; структура стен."
+  },
+  "dartmouthVII": {
+    "title": "Dartmouth — Aegean Prehistoric Archaeology, Lesson 27",
+    "url": "https://sites.dartmouth.edu/aegean-prehistory/lessons/lesson-27-narrative/",
+    "type": "Университетский археологический курс",
+    "supports": "VIIa использует и перестраивает уцелевшую архитектуру VI, что важно для связи фаз."
+  },
+  "gsaCoast": {
+    "title": "Kraft, Kayan, Rapp, Luce — Bronze Age Paleogeographies at Ancient Troy (GSA, 2001)",
+    "url": "https://gsa.confex.com/gsa/2001AM/webprogram/Paper25431.html",
+    "type": "Первичный геологический доклад",
+    "supports": "Берег, речные наносы, изменение равнины; точная реконструкция берегов и гаваней имеет неопределённость."
+  },
+  "seismicMethod": {
+    "title": "Jusseret & Sintubin — All That Rubble Leads to Trouble (2012)",
+    "url": "https://www.seismosoc.org/Publications/srl/SRL_83/srl_83-4_hs/",
+    "type": "Первичное исследование методологии, DOI 10.1785/0220120011",
+    "supports": "Причина разрушения требует контекста; обвал и пожар сами по себе неоднозначны; рассмотрена история землетрясительной трактовки Трои VI.",
+    "note": "DOI 10.1785/0220120011."
+  },
+  "troyMuseum": {
+    "title": "Министерство культуры и туризма Турции — Troy Museum",
+    "url": "https://muze.gov.tr/muze-detay?DistId=TRO&SectionId=TRO01",
+    "type": "Официальный музейный каталог",
+    "supports": "Музей в Тевфикие у входа в археологический комплекс, провинция Чанаккале; экспозиция Трои и Троады; открыт в 2018."
+  },
+  "pushkinTroy": {
+    "title": "ГМИИ им. А. С. Пушкина — Троя и раскопки Генриха Шлимана",
+    "url": "https://www.pushkinmuseum.art/museum/buildings/main/floor1/3_troy/index.php",
+    "type": "Музей-хранитель",
+    "supports": "Часть троянской коллекции Шлимана хранится в Москве; 259 предметов из нескольких кладов, не один бесспорный клад Приама."
+  },
+  "pushkinEducation": {
+    "title": "ГМИИ им. А. С. Пушкина — Золото Трои",
+    "url": "https://www.antic-art.pushkinmuseum.art/data/troy/index.php",
+    "type": "Музейный образовательный проект",
+    "supports": "Сокровища древнее предполагаемой войны и близки по эпохе к египетским пирамидам; ранние раскопки нарушили слои."
+  },
+  "turkishSiteGuide": {
+    "title": "General Directorate for Cultural Assets and Museums — Troy Archaeological Site",
+    "url": "https://turkishmuseums.com/Uploads/M%C3%BCze/Dosya/fc5dffb8-61dd-448e-9c38-1b95b008a970.pdf",
+    "type": "Официальный путеводитель",
+    "supports": "Сохранившиеся памятники комплекса, включая VIII–IX и храм Афины."
+  },
+  "homer-date": {
+    "title": "British Museum — Who was Homer?",
+    "url": "https://www.britishmuseum.org/blog/who-was-homer",
+    "type": "музейный обзор",
+    "supports": "Традиционная датировка поэм концом VIII — началом VII века до н. э.; устное развитие эпоса; поздняя бронза как возможный исторический фон примерно на четыре столетия раньше.",
+    "note": "Ориентир для датировки поэм; формирование устной традиции и запись текста — разные процессы."
+  },
+  "iliad1": {
+    "title": "Гомер, «Илиада», песнь I — Internet Classics Archive, MIT",
+    "url": "https://classics.mit.edu/Homer/iliad.1.i.html",
+    "type": "первичный литературный текст",
+    "supports": "Гнев Ахилла, пленницы Хрисеида и Брисеида, спор с Агамемноном, отказ Ахилла сражаться, участие Афины, Аполлона, Фетиды и Зевса.",
+    "note": "Самостоятельный русский пересказ. На странице — исторический английский перевод Samuel Butler; точное «800 B.C.E.» в его веб-шапке не используется как датировка."
+  },
+  "iliad6": {
+    "title": "Гомер, «Илиада», песнь VI — MIT",
+    "url": "https://classics.mit.edu/Homer/iliad.6.vi.html",
+    "type": "первичный литературный текст",
+    "supports": "Гектор, его жена Андромаха, их сын Астианакт/Скамандрий; разговор у Скейских ворот; семья и долг защитника."
+  },
+  "iliad16": {
+    "title": "Гомер, «Илиада», песнь XVI — MIT",
+    "url": "https://classics.mit.edu/Homer/iliad.16.xvi.html",
+    "type": "первичный литературный текст",
+    "supports": "Патрокл выступает в доспехах Ахилла; в сцене гибели Аполлон лишает его сил и защиты, Евфорб ранит, Гектор наносит смертельный удар. Гектор обращается к нему по имени."
+  },
+  "iliad22": {
+    "title": "Гомер, «Илиада», песнь XXII — MIT",
+    "url": "https://classics.mit.edu/Homer/iliad.22.xxii.html",
+    "type": "первичный литературный текст",
+    "supports": "Ахилл убивает Гектора, Афина обманывает Гектора в образе Деифоба; Гектор предсказывает гибель Ахилла от Париса и Аполлона, но гибель Ахилла не рассказана в поэме."
+  },
+  "iliad24": {
+    "title": "Гомер, «Илиада», песнь XXIV — MIT",
+    "url": "https://classics.mit.edu/Homer/iliad.24.xxiv.html",
+    "type": "первичный литературный текст",
+    "supports": "Приам просит Ахилла вернуть тело Гектора; похороны Гектора завершают поэму."
+  },
+  "odyssey8": {
+    "title": "Гомер, «Одиссея», песнь VIII — MIT",
+    "url": "https://classics.mit.edu/Homer/odyssey.8.viii.html",
+    "type": "первичный литературный текст",
+    "supports": "Одиссей просит Демодока спеть о деревянном коне; Эпей изготовил коня с помощью Афины; Одиссей связан с военной хитростью. Особенно стихи 487–520."
+  },
+  "aeneid2": {
+    "title": "Вергилий, «Энеида», книга II — MIT",
+    "url": "https://classics.mit.edu/Virgil/aeneid.2.ii.html",
+    "type": "первичный литературный текст",
+    "supports": "Позднейший римский рассказ Энея о коне, падении Трои и бегстве с отцом Анхисом и сыном; произведение I века до н. э., не свидетельство очевидца бронзового века."
+  },
+  "myth-overview": {
+    "title": "British Museum — The myth of the Trojan War",
+    "url": "https://www.britishmuseum.org/blog/myth-trojan-war",
+    "type": "музейный обзор",
+    "supports": "Суд Париса, Елена и Менелай, Агамемнон — брат Менелая; широкий троянский миф охватывает события до и после «Илиады»."
+  },
+  "helen-variants": {
+    "title": "British Museum — Women and goddesses of the Trojan War",
+    "url": "https://www.britishmuseum.org/blog/women-and-goddesses-trojan-war",
+    "type": "музейный обзор",
+    "supports": "Елена — жена Менелая; добровольный отъезд или похищение зависит от версии мифа."
+  },
+  "achilles-versions": {
+    "title": "British Museum — Who was Achilles?",
+    "url": "https://www.britishmuseum.org/blog/who-was-achilles",
+    "type": "музейный обзор",
+    "supports": "В «Илиаде» не рассказано о неуязвимости Ахилла и единственной уязвимой пятке; позднейшие версии нельзя автоматически переносить в Гомера."
+  },
+  "ahhiyawa2011": {
+    "title": "Beckman, Bryce, Cline — The Ahhiyawa Texts, SBL, 2011",
+    "url": "https://www.sbl-site.org/assets/pdfs/pubs/061528P.pdf",
+    "type": "издательская аннотация научного корпуса",
+    "supports": "26 документов XV–XIII веков до н. э. из Хаттусы; большинство исследователей связывает Аххияву с микенским миром поздней бронзы.",
+    "note": "Издательское описание корпуса: 26 текстов и состояние вопроса; это не полный текст книги."
+  },
+  "wilusa-guterbock": {
+    "title": "H. G. Güterbock — Troy in Hittite Texts? (1986), переиздание ISAC Chicago",
+    "url": "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/as26.pdf",
+    "type": "исследовательская статья",
+    "supports": "Договор Муваталли с Алаксанду, правителем Вилусы; история сопоставлений Wilusa/(W)Ilios и Alaksandu/Alexandros. Переиздание, печатная с. 223 и далее.",
+    "note": "История научной дискуссии; перепечатка статьи 1986 года, печатная с. 223 и далее."
+  },
+  "wilusa-nagy": {
+    "title": "Gregory Nagy — East of the Achaeans, CHS Harvard, 2015",
+    "url": "https://classical-inquiries.chs.harvard.edu/east-of-the-achaeans-making-up-for-a-missed-opportunity-while-reading-hittite-texts/",
+    "type": "авторский научный разбор",
+    "supports": "Связка Алаксанду—Вилуса сопоставляется с Александром—Илионом; в письме хеттского царя к царю Аххиявы упомянуто разрешение прежнего конфликта о Вилусе."
+  }
+}

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="850" viewBox="0 0 1000 850" role="img" aria-labelledby="strata-title strata-desc">
+<title id="strata-title">Девять основных археологических периодов Трои</title>
+<desc id="strata-desc">Условный разрез: I внизу, IX вверху. VI и VII выделены как важные периоды для обсуждения поздней бронзы. Равная толщина не означает равную продолжительность; форма и уровни не являются обмером раскопа. Внутренние подразделения периодов здесь не показаны.</desc>
+<defs><radialGradient id="s-bg"><stop stop-color="#14282e"/><stop offset="1" stop-color="#070f16"/></radialGradient></defs>
+<style>
+.phase{--layer:#234550;--edge:#6396a3;--label:#a8c8ce;--fill:#132d37}
+.phase-vi,.phase-vii{--layer:#665139;--edge:#e6b87a;--label:#ffda9a;--fill:#382f26}
+.phase.active,.phase[data-active="true"]{--layer:#347580;--edge:#9afff2;--label:#cdfff4;--fill:#20464d}
+.phase .surface{fill:var(--layer);stroke:var(--edge)}.phase .face{fill:var(--fill);stroke:var(--edge)}.phase .joint{stroke:var(--edge);opacity:.3}.phase .marker{stroke:var(--edge)}.phase .label{fill:var(--label)}
+</style>
+<rect width="1000" height="850" rx="26" fill="url(#s-bg)"/>
+<path d="M851 130V704m-8-12l8 12 8-12" fill="none" stroke="#5a8794" stroke-width="2"/>
+<text x="825" y="95" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="650" fill="#9ebcc4">позже</text>
+<text x="825" y="750" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="650" fill="#9ebcc4">раньше</text>
+
+<g class="phase phase-ix" data-phase="IX" role="group" aria-label="Троя IX"><defs><clipPath id="strata-clip-IX"><polygon points="116.0,126.0 403.0,71.0 683.0,124.0 407.0,182.0"/></clipPath></defs>
+<polygon class="surface" points="116.0,126.0 403.0,71.0 683.0,124.0 407.0,182.0" stroke-width="1.6"/>
+<polygon class="face" points="116.0,126.0 407.0,182.0 407.0,221.0 116.0,165.0" stroke-width="1.6"/><polygon class="face" points="407.0,182.0 683.0,124.0 683.0,163.0 407.0,221.0" stroke-width="1.6"/>
+<path class="joint" d="M116 146L407 202L683 144M193 142v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-IX)" class="joint" d="M285 111l86-16 143 27-91 18zM490 93l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M683 144H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="683" cy="144" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="153" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">IX</text></g>
+<g class="phase phase-viii" data-phase="VIII" role="group" aria-label="Троя VIII"><defs><clipPath id="strata-clip-VIII"><polygon points="120.0,193.0 407.0,138.0 687.0,191.0 411.0,249.0"/></clipPath></defs>
+<polygon class="surface" points="120.0,193.0 407.0,138.0 687.0,191.0 411.0,249.0" stroke-width="1.6"/>
+<polygon class="face" points="120.0,193.0 411.0,249.0 411.0,288.0 120.0,232.0" stroke-width="1.6"/><polygon class="face" points="411.0,249.0 687.0,191.0 687.0,230.0 411.0,288.0" stroke-width="1.6"/>
+<path class="joint" d="M120 213L411 269L687 211M197 209v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-VIII)" class="joint" d="M285 178l86-16 143 27-91 18zM490 160l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M687 211H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="687" cy="211" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="220" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">VIII</text></g>
+<g class="phase phase-vii" data-phase="VII" role="group" aria-label="Троя VII"><defs><clipPath id="strata-clip-VII"><polygon points="113.0,260.0 400.0,205.0 680.0,258.0 404.0,316.0"/></clipPath></defs>
+<polygon class="surface" points="113.0,260.0 400.0,205.0 680.0,258.0 404.0,316.0" stroke-width="1.6"/>
+<polygon class="face" points="113.0,260.0 404.0,316.0 404.0,355.0 113.0,299.0" stroke-width="1.6"/><polygon class="face" points="404.0,316.0 680.0,258.0 680.0,297.0 404.0,355.0" stroke-width="1.6"/>
+<path class="joint" d="M113 280L404 336L680 278M190 276v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-VII)" class="marker" d="M292 250l92-18 130 25-97 20zM317 253l66-13 103 21-68 14zM448 225l68-13 82 15-70 15z" fill="none" stroke-width="1.5" opacity=".7"/>
+<path class="marker" d="M680 278H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="680" cy="278" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="287" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">VII</text></g>
+<g class="phase phase-vi" data-phase="VI" role="group" aria-label="Троя VI"><defs><clipPath id="strata-clip-VI"><polygon points="118.0,327.0 405.0,272.0 685.0,325.0 409.0,383.0"/></clipPath></defs>
+<polygon class="surface" points="118.0,327.0 405.0,272.0 685.0,325.0 409.0,383.0" stroke-width="1.6"/>
+<polygon class="face" points="118.0,327.0 409.0,383.0 409.0,422.0 118.0,366.0" stroke-width="1.6"/><polygon class="face" points="409.0,383.0 685.0,325.0 685.0,364.0 409.0,422.0" stroke-width="1.6"/>
+<path class="joint" d="M118 347L409 403L685 345M195 343v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-VI)" class="marker" d="M292 317l92-18 130 25-97 20zM317 320l66-13 103 21-68 14zM448 292l68-13 82 15-70 15z" fill="none" stroke-width="1.5" opacity=".7"/>
+<path class="marker" d="M685 345H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="685" cy="345" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="354" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">VI</text></g>
+<g class="phase phase-v" data-phase="V" role="group" aria-label="Троя V"><defs><clipPath id="strata-clip-V"><polygon points="116.0,394.0 403.0,339.0 683.0,392.0 407.0,450.0"/></clipPath></defs>
+<polygon class="surface" points="116.0,394.0 403.0,339.0 683.0,392.0 407.0,450.0" stroke-width="1.6"/>
+<polygon class="face" points="116.0,394.0 407.0,450.0 407.0,489.0 116.0,433.0" stroke-width="1.6"/><polygon class="face" points="407.0,450.0 683.0,392.0 683.0,431.0 407.0,489.0" stroke-width="1.6"/>
+<path class="joint" d="M116 414L407 470L683 412M193 410v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-V)" class="joint" d="M285 379l86-16 143 27-91 18zM490 361l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M683 412H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="683" cy="412" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="421" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">V</text></g>
+<g class="phase phase-iv" data-phase="IV" role="group" aria-label="Троя IV"><defs><clipPath id="strata-clip-IV"><polygon points="112.0,461.0 399.0,406.0 679.0,459.0 403.0,517.0"/></clipPath></defs>
+<polygon class="surface" points="112.0,461.0 399.0,406.0 679.0,459.0 403.0,517.0" stroke-width="1.6"/>
+<polygon class="face" points="112.0,461.0 403.0,517.0 403.0,556.0 112.0,500.0" stroke-width="1.6"/><polygon class="face" points="403.0,517.0 679.0,459.0 679.0,498.0 403.0,556.0" stroke-width="1.6"/>
+<path class="joint" d="M112 481L403 537L679 479M189 477v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-IV)" class="joint" d="M285 446l86-16 143 27-91 18zM490 428l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M679 479H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="679" cy="479" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="488" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">IV</text></g>
+<g class="phase phase-iii" data-phase="III" role="group" aria-label="Троя III"><defs><clipPath id="strata-clip-III"><polygon points="119.0,528.0 406.0,473.0 686.0,526.0 410.0,584.0"/></clipPath></defs>
+<polygon class="surface" points="119.0,528.0 406.0,473.0 686.0,526.0 410.0,584.0" stroke-width="1.6"/>
+<polygon class="face" points="119.0,528.0 410.0,584.0 410.0,623.0 119.0,567.0" stroke-width="1.6"/><polygon class="face" points="410.0,584.0 686.0,526.0 686.0,565.0 410.0,623.0" stroke-width="1.6"/>
+<path class="joint" d="M119 548L410 604L686 546M196 544v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-III)" class="joint" d="M285 513l86-16 143 27-91 18zM490 495l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M686 546H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="686" cy="546" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="555" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">III</text></g>
+<g class="phase phase-ii" data-phase="II" role="group" aria-label="Троя II"><defs><clipPath id="strata-clip-II"><polygon points="115.0,595.0 402.0,540.0 682.0,593.0 406.0,651.0"/></clipPath></defs>
+<polygon class="surface" points="115.0,595.0 402.0,540.0 682.0,593.0 406.0,651.0" stroke-width="1.6"/>
+<polygon class="face" points="115.0,595.0 406.0,651.0 406.0,690.0 115.0,634.0" stroke-width="1.6"/><polygon class="face" points="406.0,651.0 682.0,593.0 682.0,632.0 406.0,690.0" stroke-width="1.6"/>
+<path class="joint" d="M115 615L406 671L682 613M192 611v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-II)" class="joint" d="M285 580l86-16 143 27-91 18zM490 562l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M682 613H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="682" cy="613" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="622" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">II</text></g>
+<g class="phase phase-i" data-phase="I" role="group" aria-label="Троя I"><defs><clipPath id="strata-clip-I"><polygon points="117.0,662.0 404.0,607.0 684.0,660.0 408.0,718.0"/></clipPath></defs>
+<polygon class="surface" points="117.0,662.0 404.0,607.0 684.0,660.0 408.0,718.0" stroke-width="1.6"/>
+<polygon class="face" points="117.0,662.0 408.0,718.0 408.0,757.0 117.0,701.0" stroke-width="1.6"/><polygon class="face" points="408.0,718.0 684.0,660.0 684.0,699.0 408.0,757.0" stroke-width="1.6"/>
+<path class="joint" d="M117 682L408 738L684 680M194 678v19m63-6v19m64-6v19m136-5v19m67-33v19m64-33v19" fill="none" stroke-width="1"/>
+<path clip-path="url(#strata-clip-I)" class="joint" d="M285 647l86-16 143 27-91 18zM490 629l66-13 69 12-64 14z" fill="none" stroke-width="1.2"/>
+<path class="marker" d="M684 680H723" fill="none" stroke-width="1.5"/><circle class="marker" cx="684" cy="680" r="3" fill="none" stroke-width="1.5"/><text class="label" x="745" y="689" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750">I</text></g>
+<text x="500" y="818" text-anchor="middle" fill="#7398a3" font-family="system-ui,-apple-system,sans-serif" font-size="19" font-weight="650">СЛОИ УСЛОВНЫ · ТОЛЩИНА НЕ ПОКАЗЫВАЕТ ДЛИТЕЛЬНОСТЬ</text></svg>

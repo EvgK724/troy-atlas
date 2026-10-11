@@ -1,0 +1,51 @@
+{
+  "creator": "Original native SVG artwork created for TROY in this workspace",
+  "created": "2026-10-11",
+  "third_party_images": false,
+  "files": {
+    "troy-citadel.svg": {
+      "kind": "Educational architectural schematic",
+      "dimensions": [
+        1000,
+        700
+      ],
+      "caption_ru": "Учебная схема укреплённой цитадели. План и пропорции условны.",
+      "limits": "Not an excavation plan, scale drawing, reconstruction of a particular Troy phase, or evidence of exact gate structure. Sloping stone fortification concept; roofs, houses, gate and arrangement are explanatory geometry. No dimensions or historical quotation."
+    },
+    "troy-strata.svg": {
+      "kind": "Conceptual stratigraphy",
+      "dimensions": [
+        1000,
+        850
+      ],
+      "caption_ru": "Девять основных периодов: ранние внизу. Равная толщина не означает равную длительность.",
+      "limits": "Sequential periods I–IX only; subdivisions and ongoing changes in archaeological classification omitted; no measured layer thickness or topology. VI and VII visually emphasized for discussion of Late Bronze Age.",
+      "interaction": "Each period group has class=\"phase phase-vi\" etc and data-phase=\"VI\". Add class active or data-active=\"true\" on inline SVG group to override highlight. Removing active restores VI/VII amber, others cyan."
+    },
+    "troy-icon.svg": {
+      "kind": "Original app emblem",
+      "dimensions": [
+        512,
+        512
+      ],
+      "caption_ru": "Условный знак ворот цитадели.",
+      "limits": "No ancient inscription, no exact archaeological gate reconstruction. Key elements lie within central 80% safe zone. Coarse geometry optimized for small icons."
+    },
+    "troy-connections.svg": {
+      "kind": "Conceptual geographical connection diagram",
+      "dimensions": [
+        1000,
+        700
+      ],
+      "caption_ru": "Эгейское море → Дарданеллы → Мраморное море. Троя близ южного входа в пролив.",
+      "limits": "Schematic relationships only, not a geographical map. Abstract shorelines and positions are not to scale and do not represent Bronze Age coastlines. Passage arrow indicates connection, not a current, shipping monopoly or documented route."
+    }
+  },
+  "palette": {
+    "background": "#070f16",
+    "cyan": "#89e9e5",
+    "amber": "#e6b87a",
+    "body": "#a8c8ce"
+  },
+  "licensing": "Original graphics, no external raster assets or font files. May be distributed with the application."
+}

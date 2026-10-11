@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="icon-title icon-desc">
+<title id="icon-title">TROY — ворота цитадели</title><desc id="icon-desc">Оригинальная эмблема: крупные ворота и наклонные стены, бирюзовый камень и янтарный проход. Условный знак, не реконструкция конкретных ворот Трои.</desc>
+<defs><linearGradient id="i-bg" x2="1" y2="1"><stop stop-color="#152c35"/><stop offset="1" stop-color="#050b12"/></linearGradient><linearGradient id="i-wall" x2="1" y2="1"><stop stop-color="#478e97"/><stop offset="1" stop-color="#193742"/></linearGradient><linearGradient id="i-gate" x2="0" y2="1"><stop stop-color="#ffe0a5"/><stop offset="1" stop-color="#cc8839"/></linearGradient><filter id="i-halo"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<rect width="512" height="512" rx="106" fill="url(#i-bg)"/>
+<path d="M116 364L147 159H365L396 364" fill="none" stroke="#56e4df" stroke-width="11" opacity=".17" filter="url(#i-halo)"/>
+<path d="M116 364L147 159H365L396 364Z" fill="url(#i-wall)" stroke="#89e9e5" stroke-width="9" stroke-linejoin="round"/>
+<path d="M147 159L181 126H331L365 159Z" fill="#315564" stroke="#89e9e5" stroke-width="8" stroke-linejoin="round"/>
+<g fill="none" stroke="#84c6cd" stroke-width="7" opacity=".75"><path d="M137 230H375M126 302H386M194 160V229M316 160V229M165 233V299M347 233V299M190 306V360M322 306V360"/></g>
+<path d="M215 364V221H297V364" fill="#050e17" stroke="url(#i-gate)" stroke-width="12" stroke-linejoin="round"/>
+<path d="M209 204H303" stroke="#ffdaa0" stroke-width="15" stroke-linecap="square"/>
+<path d="M246 250V364L214 399H298L266 364V250" fill="#da9b4c" opacity=".27"/>
+<path d="M137 389H198M314 389H375" fill="none" stroke="#6ca8b4" stroke-width="8" stroke-linecap="round"/>
+</svg>
